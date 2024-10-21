@@ -13,7 +13,7 @@ Prerequisites:
     Basic experience with 3D plotting and map interactivity       using libraries like deckgl in R.
 
 Libraries and Tools:
-To run this project, the following R libraries are required:
+To run this project, the following R libraries are required
 
 sf: For reading and handling geospatial data.
 R.utils: For unzipping compressed files.
